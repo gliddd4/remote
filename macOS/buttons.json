@@ -1,0 +1,41 @@
+{
+    "search_bar": {
+        "x": 287,
+        "y": 42
+    },
+    "new_chat_button": {
+        "x": 135,
+        "y": 149
+    },
+    "text_input_box": {
+        "x": 171,
+        "y": 800
+    },
+    "ai_website_url": "https://chat.leadscloud.org/",
+    "browser_path": "/Applications/Helium.app/Contents/MacOS/Helium",
+    "magnet_left_option": {
+        "x": 1097,
+        "y": 41
+    },
+    "magnet_menubar": {
+        "x": 1105,
+        "y": 9
+    },
+    "pop-up_button": {
+        "x": 522,
+        "y": 291
+    },
+    "full-screen_button": {
+        "x": 641,
+        "y": 118
+    },
+    "pop-up_button_2": {
+        "x": 522,
+        "y": 291
+    },
+    "model_picker_button": {
+        "x": 298,
+        "y": 779
+    },
+    "max_response_wait": 30
+}
